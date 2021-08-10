@@ -14,7 +14,7 @@ Setting up your username globally for specific user on a specific machine : Comm
 
 Setting up your email globally for specific user on a specific machine : Command
 
-2> git config --global user.email "bikash.mohapatra@collabera.com"
+2> git config --global user.email "bikash.mohapatra217@gmail.com"
 
 To see list of global Configuration has been done
 
